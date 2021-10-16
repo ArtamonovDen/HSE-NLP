@@ -11,4 +11,4 @@ torch==1.9.1+cu111
 torchvision==0.10.1
 tqdm==4.62.3
 ufal.udpipe==1.2.0.3
-wget-3.2
+wget==3.2
