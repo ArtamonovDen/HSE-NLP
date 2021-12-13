@@ -45,3 +45,9 @@ Collected dataset you can find on [Google Drive](https://drive.google.com/drive/
 ```python
 python crawlers/npus1_crawler.py --start 2020-01-01 --end 2021-01-01 --output news.json
 ```
+
+## NER
+
+Download biLSTM model from [Google Drive](https://drive.google.com/drive/u/0/folders/12iT4ppXizT4V5bVhgHyAe3NFT1jFCfNR).
+Split dataset is also available there. Check Preprocessing and training process in NER.ipynb
+
